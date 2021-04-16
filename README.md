@@ -1,31 +1,30 @@
 Welcome to the OpenBMS.
 
-Open Communication protocol for BMS. 
+# Open Communication protocol for BMS. 
 Category:
 1. Communication with Ev Charger
-        1. Identification
-        2. Parameters get/set
-        3. 
-3. Communication with VCU
-4. Dignostics (UDS)
-        1. Data Transmission	
-            1. Read Data By Identifier
-            2. Read Memory By Address
-            3. Read Scaling Data By Identifier
-            4. Read Data By Identifier Periodic
-            5. Dynamically Define Data Identifier
-            6. Write Data By Identifier
-            7. Write Memory By Address
-        2. Stored Data Transmission	
-            1. Clear Diagnostic Information
-            2. Read DTC Information
-        3. Input / Output Control	
-            1. Input Output Control By Identifier
-        4. Remote Activation of Routine
-            1. Routine Control
-        5. Upload / Download
-            1. Request Download
-            2. Request Upload
-            3. Transfer Data
-            4. Request Transfer Exit
-            5. Request File Transfer
+        > Identification
+        > Parameters get/set 
+2. Communication with VCU
+3. Dignostics (UDS)
+        > Data Transmission	
+            >> Read Data By Identifier
+            >> Read Memory By Address
+            >> Read Scaling Data By Identifier
+            >> Read Data By Identifier Periodic
+            >> Dynamically Define Data Identifier
+            >> Write Data By Identifier
+            >> Write Memory By Address
+        > Stored Data Transmission	
+            >> Clear Diagnostic Information
+            >> Read DTC Information
+        > Input / Output Control	
+            >> Input Output Control By Identifier
+        > Remote Activation of Routine
+            >> Routine Control
+        > Upload / Download
+            >> Request Download
+            >> Request Upload
+            >> Transfer Data
+            >> Request Transfer Exit
+            >> Request File Transfer
