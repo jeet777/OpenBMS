@@ -17,3 +17,8 @@
 > * Stored Data Transmission	
 > * Input / Output Control	
 > * Upload / Download
+
+## Base protocol  
+> * ISO-TP over CAN Bus
+> * Baud rate - 500 kbps
+> * Fixed address 
